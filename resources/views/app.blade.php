@@ -11,6 +11,7 @@
 
         <link rel="{{ asset('css/app.css') }}" href="stylesheet">
         
+        <link rel="icon" href="{{ url('img/favicons/apple-icon.png') }}" type="image/x-icon">
         <link rel="icon" href="img\favicons\apple-icon.png" type="image/x-icon">
 
     </head>
