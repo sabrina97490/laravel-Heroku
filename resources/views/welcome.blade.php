@@ -24,7 +24,7 @@
                 <li class="mr-8">
                     <a href="/#" class="font-extrabold text-gray-600 hover hover:text-pink-500">FAQ</a>
                 <li class="mr-8">
-                    <a href="{{ route('login') }}" class="text-white ml-4 py-2 px-6 rounded bg-gray-800 font-bold hidden sm:block bg-indigo-600">Se connecter</a>
+                    <a href="/#" class="text-white ml-4 py-2 px-6 rounded bg-gray-800 font-bold hidden sm:block bg-indigo-600">Se connecter</a>
                 </li>
             </ul>
         </nav>
