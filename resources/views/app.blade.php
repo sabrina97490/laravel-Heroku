@@ -11,8 +11,8 @@
 
         <link rel="{{ asset('css/app.css') }}" href="stylesheet">
         
-        <link rel="icon" href="{{ url('img/favicons/apple-icon.png') }}" type="image/x-icon">
         <link rel="icon" href="img\favicons\apple-icon.png" type="image/x-icon">
+        <link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/favicons/favicon-16x16.png') }}">
 
     </head>
     <body class="antialiased">
